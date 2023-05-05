@@ -35,12 +35,5 @@
       "id": 10,
       "estado": "en espera de despacho"
    },
-   {
-      "id": 11,
-      "estado": "pendiente de despacho"
-   },
-   {
-      "id": 12,
-      "estado": "extraviado"
-   }
+ 
 ]
