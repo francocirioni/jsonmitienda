@@ -14,26 +14,5 @@
    {
       "id": 5,
       "estado": "entregado con éxito"
-   },
-   {
-      "id": 6,
-      "estado": "entregado con retraso"
-   },
-   {
-      "id": 7,
-      "estado": "intentado entrega fallida"
-   },
-   {
-      "id": 8,
-      "estado": "devuelto al remitente"
-   },
-   {
-      "id": 9,
-      "estado": "pendiente de recolección"
-   },
-   {
-      "id": 10,
-      "estado": "en espera de despacho"
-   },
- 
+   }
 ]
