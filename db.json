@@ -1,11 +1,46 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+   {
+      "id": 2,
+      "estado": "en tránsito"
+   },
+   {
+      "id": 3,
+      "estado": "en proceso de entrega"
+   },
+   {
+      "id": 4,
+      "estado": "retrasado"
+   },
+   {
+      "id": 5,
+      "estado": "entregado con éxito"
+   },
+   {
+      "id": 6,
+      "estado": "entregado con retraso"
+   },
+   {
+      "id": 7,
+      "estado": "intentado entrega fallida"
+   },
+   {
+      "id": 8,
+      "estado": "devuelto al remitente"
+   },
+   {
+      "id": 9,
+      "estado": "pendiente de recolección"
+   },
+   {
+      "id": 10,
+      "estado": "en espera de despacho"
+   },
+   {
+      "id": 11,
+      "estado": "pendiente de despacho"
+   },
+   {
+      "id": 12,
+      "estado": "extraviado"
+   }
+]
