@@ -3,17 +3,17 @@
       {
          "numero_envio": "123456",
          "estado": "En tránsito",
-           "fecha": " Llega el dia 2021-10-05"
+         
       },
       {
          "numero_envio": "789012",
          "estado": "Entregado",
-        "fecha": " Llega el dia 2021-10-05"
+     
       },
       {
          "numero_envio": "345678",
          "estado": "En espera de recolección",
-        "fecha": " Llega el dia 2021-10-05"
+      
       }
    ]
 }
